@@ -1,0 +1,737 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Civilization Infos -->
+<Civ4UnitArtStyleTypeInfos xmlns="x-schema:CIV4CivilizationsSchema.xml">
+	<UnitArtStyleTypeInfos>
+<!--________________________________________________________________________________________________________________________________________________-->
+<!--                                                                                                                                                -->
+<!-- VD mod BEGIN Nubian ArtStyle                                                                                                                   -->
+<!--________________________________________________________________________________________________________________________________________________-->
+		<UnitArtStyleTypeInfo>
+			<Type>UNIT_ARTSTYLE_NUBIAN</Type>
+			<StyleUnits>
+
+				<StyleUnit>
+					<UnitType>UNIT_SETTLER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_MEDIEVAL_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_MEDIEVAL_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_DONKEY</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CAMEL</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CAMEL</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_NUBIA_2</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MEDIEVAL_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MEDIEVAL_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_NUBIA_2</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MEDIEVAL_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MEDIEVAL_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_NUBIA_3</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MEDIEVAL_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MEDIEVAL_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_NUBIA_3</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MEDIEVAL_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MEDIEVAL_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_DONKEY</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CAMEL</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CAMEL</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_WORKER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORKER_WORKERMEDIEVAL_AFRICAN_MUSLIM</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_WORKERMEDIEVAL_AFRICAN_MUSLIM</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_LABOURER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LABOURER_MODERN_AFRICAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LABOURER_MODERN_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LABOURER_MODERN_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_SCOUT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SCOUT_AFRICAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SCOUT_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SCOUT_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_EXPLORER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_EXPLORER_AFRICAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_EXPLORER_MODERN_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_EXPLORER_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_AFRICAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_MEDIEVAL_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_WARRIOR</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_NUBIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_NUBIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_NUBIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_NUBIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_NUBIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_NUBIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				
+				<StyleUnit>
+					<UnitType>UNIT_MILITIA</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MILITIA_AFRICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MILITIA_AFRICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MILITIA_AFRICAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MILITIA_AFRICAN1</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MILITIA_AFRICAN1</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MILITIA_AFRICAN1</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MILITIA_AFRICAN2</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MILITIA_AFRICAN2</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MILITIA_AFRICAN2</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_SPEARMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_AXEMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				
+				<StyleUnit>
+					<UnitType>UNIT_LIGHT_SWORDSMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_AFRICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_AFRICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_AFRICAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_AFRICAN1</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_AFRICAN1</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_AFRICAN1</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_AFRICAN2</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_AFRICAN2</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_AFRICAN2</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_SWORDSMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_SKIRMISHER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SKIRMISHER_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SKIRMISHER_NUBIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SKIRMISHER_NUBIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_CHARIOT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_HORSEMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_HORSE_ARCHER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_MALI</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_MALI</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_MALI</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_WAR_ELEPHANT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_NUBIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_NUBIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				
+				<StyleUnit>
+					<UnitType>UNIT_HEAVY_SPEARMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_HEAVY_SWORDSMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_NUBIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_NUBIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_PIKEMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_FATIMID_SUDANESE_GUARD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_FATIMID_SUDANESE_GUARD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_FATIMID_SUDANESE_GUARD</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_FATIMID_SUDANESE_GUARD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_FATIMID_SUDANESE_GUARD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_FATIMID_SUDANESE_GUARD</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_FATIMID_SUDANESE_GUARD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_FATIMID_SUDANESE_GUARD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_FATIMID_SUDANESE_GUARD</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_LONGBOWMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_NUBIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_NUBIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_CROSSBOWMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_NUBIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_NUBIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_LANCER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LANCER_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LANCER_NUBIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LANCER_NUBIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				
+				<StyleUnit>
+					<UnitType>UNIT_ARQUEBUSIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				
+				<StyleUnit>
+					<UnitType>UNIT_CUIRASSIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CUIRASSIER_SWAHILI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CUIRASSIER_SWAHILI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CUIRASSIER_SWAHILI</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				
+				<StyleUnit>
+					<UnitType>UNIT_PISTOLIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_MUSKETEER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_SWAHILI</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_SWAHILI</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_SWAHILI</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_CANNON</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_MALI</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CANNON_MALI</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_MALI</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GRENADIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GRENADIER_AFRICAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GRENADIER_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GRENADIER_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				
+				<StyleUnit>
+					<UnitType>UNIT_DRAGOON</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_DRAGOON_SWAHILI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_DRAGOON_SWAHILI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_DRAGOON_SWAHILI</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				
+				<StyleUnit>
+					<UnitType>UNIT_HUSSAR</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HUSSAR_AFRICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HUSSAR_AFRICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HUSSAR_AFRICAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_RIFLEMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_NUBIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_NUBIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_NUBIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_CAVALRY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_NUBIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CAVALRY_NUBIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+
+
+				<StyleUnit>
+					<UnitType>UNIT_INFANTRY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_SWAHILI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_SWAHILI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_SWAHILI</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_MACHINE_GUN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_SWAHILI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_SWAHILI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_SWAHILI</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_AT_INFANTRY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_SWAHILI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_SWAHILI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_SWAHILI</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_SAM_INFANTRY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_MALIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_MALIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_MALIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_MARINE</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MARINE_MALIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MARINE_MALIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MARINE_MALIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_PARATROOPER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PARATROOPER_AFRICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PARATROOPER_AFRICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PARATROOPER_AFRICAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+
+
+				<StyleUnit>
+					<UnitType>UNIT_GALLEY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GALLEY_PAPYRUS_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GALLEY_PAPYRUS_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GALLEY_PAPYRUS_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_WAR_GALLEY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WAR_GALLEY_TRIREME_AFRICA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WAR_GALLEY_TRIREME_AFRICA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WAR_GALLEY_TRIREME_AFRICA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_COG</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_COG_AFRICAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_COG_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_COG_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GALLEASS</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GALLEASS_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GALLEASS_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GALLEASS_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GALLEON</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GALLEON_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GALLEON_NUBIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GALLEON_NUBIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_FRIGATE</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_FRIGATE_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_FRIGATE_NUBIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_FRIGATE_NUBIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_SHIP_OF_THE_LINE</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SHIP_OF_THE_LINE_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SHIP_OF_THE_LINE_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SHIP_OF_THE_LINE_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_AFRICAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MODERN_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MEDIEVAL_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_ARTIST</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_ARTIST_AFRICAN_AO</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_ARTIST_MODERN_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_ARTIST_AFRICAN_AO</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_ENGINEER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_ENGINEER_NUBIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_ENGINEER_MODERN_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_ENGINEER_NUBIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_MERCHANT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_MERCHANT_AFRICAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_MERCHANT_MODERN_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_MERCHANT_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_PROPHET</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_PROPHET_AFRICAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_PROPHET_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_PROPHET_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_SCIENTIST</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_SCIENTIST_AFRICAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_SCIENTIST_MODERN_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_SCIENTIST_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_SPY_AFRICAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_SPY_MODERN_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_SPY_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_FEMALE_GREAT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_FEMALE_GREAT_SPY_AFRICAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_FEMALE_GREAT_SPY_MODERN_AFRICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_FEMALE_GREAT_SPY_AFRICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_MECHANIZED_INFANTRY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MECHANIZED_INFANTRY_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MECHANIZED_INFANTRY_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MECHANIZED_INFANTRY_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_GUNSHIP</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GUNSHIP_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GUNSHIP_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GUNSHIP_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_JET_FIGHTER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_JET_FIGHTER_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_JET_FIGHTER_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_JET_FIGHTER_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_TANK</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_TANK_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_TANK_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_TANK_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_BOMBER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_BOMBER_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_BOMBER_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_BOMBER_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_FIGHTER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_FIGHTER_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_FIGHTER_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_FIGHTER_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CARAVEL</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CARAVEL_AFRICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CARAVEL_AFRICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CARAVEL_AFRICAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_HEAVY_GALLEY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_GALLEY_EGYPT</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_GALLEY_EGYPT</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_GALLEY_EGYPT</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_WORK_BOAT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORK_BOAT_INDIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WORK_BOAT_INDIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORK_BOAT_INDIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_BOMBARD</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_BOMBARD_NUBIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_BOMBARD_NUBIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_BOMBARD_NUBIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_ARTILLERY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARTILLERY_AFRICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARTILLERY_AFRICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARTILLERY_AFRICAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CAMEL_RIDER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CAMEL_RIDER_AFRICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CAMEL_RIDER_AFRICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CAMEL_RIDER_AFRICAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+			</StyleUnits>
+		</UnitArtStyleTypeInfo>
+<!--________________________________________________________________________________________________________________________________________________-->
+<!--                                                                                                                                                -->
+<!-- VD mod END Nubian ArtStyle                                                                                                                     -->
+<!--________________________________________________________________________________________________________________________________________________-->
+	</UnitArtStyleTypeInfos>
+</Civ4UnitArtStyleTypeInfos>
