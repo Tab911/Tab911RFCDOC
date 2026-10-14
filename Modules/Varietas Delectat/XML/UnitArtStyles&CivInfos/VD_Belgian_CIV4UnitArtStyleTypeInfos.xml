@@ -78,49 +78,41 @@
 				<StyleUnit>
 					<UnitType>UNIT_DRAGOON</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_DRAGOON_BELGIUM</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_DRAGOON_BELGIUM</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_DRAGOON_BELGIUM</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_DRAGOON_FRANCE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_DRAGOON_FRANCE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_DRAGOON_FRANCE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CAVALRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_BELGIUM</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CAVALRY_BELGIUM</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_BELGIUM</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_BELGIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CAVALRY_BELGIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_BELGIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_MUSKETEER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETEER_BELGIUM</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETEER_BELGIUM</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETEER_BELGIUM</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETEER_BELGIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETEER_BELGIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETEER_BELGIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_HOLLAND</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_HOLLAND</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_HOLLAND</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
-					<UnitType>UNIT_GRENADIER</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_GRENADIER_BELGIUM</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_GRENADIER_BELGIUM</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_GRENADIER_BELGIUM</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_BELGIUM</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_BELGIUM</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_BELGIUM</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CANNON</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_BELGIUM</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_BELGIUM</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CANNON_BELGIUM</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_AUSTRALIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_AUSTRALIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CANNON_AUSTRALIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -310,17 +302,17 @@
 				<StyleUnit>
 					<UnitType>UNIT_MACHINE_GUN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_DUTCH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_DUTCH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_DUTCH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_BELGIUM</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_BELGIUM</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_BELGIUM</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_INFANTRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_DUTCH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_DUTCH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_DUTCH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_BELGIUM</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_BELGIUM</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_BELGIUM</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -337,6 +329,30 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_WORK_BOAT_EUROPEAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORK_BOAT_EUROPEAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WORK_BOAT_EUROPEAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_AT_INFANTRY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_FRANCE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_FRANCE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_FRANCE</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_HUSSAR</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HUSSAR_FRANCE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HUSSAR_FRANCE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HUSSAR_FRANCE</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_ARTILLERY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARTILLERY_BELGIUM</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARTILLERY_BELGIUM</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARTILLERY_BELGIUM</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>

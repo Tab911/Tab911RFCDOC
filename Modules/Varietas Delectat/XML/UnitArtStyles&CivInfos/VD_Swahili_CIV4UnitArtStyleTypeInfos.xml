@@ -429,9 +429,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_SWAHILI</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_SWAHILI</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_SWAHILI</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_NUBIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_NUBIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_NUBIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 

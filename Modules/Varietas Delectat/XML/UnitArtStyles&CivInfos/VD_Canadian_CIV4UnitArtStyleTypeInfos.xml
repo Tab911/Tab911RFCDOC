@@ -94,9 +94,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_CAVALRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CAVALRY_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_CANADA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CAVALRY_CANADA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_CANADA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -110,9 +110,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_COLONIAL_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_COLONIAL_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_COLONIAL_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_CANADA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_CANADA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_CANADA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -126,17 +126,17 @@
 				<StyleUnit>
 					<UnitType>UNIT_INFANTRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_CANADA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_CANADA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_CANADA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_AT_INFANTRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ENGLAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ENGLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ENGLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -377,6 +377,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_WORK_BOAT_EUROPEAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORK_BOAT_EUROPEAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WORK_BOAT_EUROPEAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_MACHINE_GUN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_ENGLAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_ENGLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_ENGLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>

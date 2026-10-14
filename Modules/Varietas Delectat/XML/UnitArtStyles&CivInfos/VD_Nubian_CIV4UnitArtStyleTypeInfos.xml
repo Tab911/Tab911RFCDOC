@@ -376,9 +376,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_MUSKETEER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_SWAHILI</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_SWAHILI</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_SWAHILI</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETEER_SWAHILI</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETEER_SWAHILI</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETEER_SWAHILI</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 

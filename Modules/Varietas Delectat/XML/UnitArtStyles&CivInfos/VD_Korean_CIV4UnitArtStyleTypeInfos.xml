@@ -55,8 +55,8 @@
 					<UnitType>UNIT_WORKER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_CHINESE_ANCIENT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_CHINESE_MEDIEVAL</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WORKER_CHINESE_MEDIEVAL</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_KOREA_MIDDLE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORKER_KOREA_MIDDLE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

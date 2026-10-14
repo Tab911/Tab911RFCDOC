@@ -701,7 +701,7 @@
 				<StyleUnit>
 					<UnitType>UNIT_WORKER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_LEVANTINE</EarlyArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_ROMAN_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_WORKERMEDIEVAL_ARABIA</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WORKER_WORKERMEDIEVAL_ARABIA</LateArtDefineTag>
 					</UnitMeshGroup>

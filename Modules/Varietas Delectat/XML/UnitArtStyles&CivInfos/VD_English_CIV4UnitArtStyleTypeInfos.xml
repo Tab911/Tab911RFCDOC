@@ -72,7 +72,7 @@
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO_OV</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO_OV</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO_OV</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_EXPLORER_ENGLISH</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

@@ -70,25 +70,25 @@
 				<StyleUnit>
 					<UnitType>UNIT_EXPLORER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_EXPLORER_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_EXPLORER_AUSTRALIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_EXPLORER_AUSTRALIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_EXPLORER_AUSTRALIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_HUSSAR</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HUSSAR_ENGLAND</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HUSSAR_ENGLAND</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HUSSAR_ENGLAND</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HUSSAR_ENGLAND_2</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HUSSAR_ENGLAND_2</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HUSSAR_ENGLAND_2</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_DRAGOON</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_DRAGOON_ENGLAND</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_DRAGOON_ENGLAND</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_DRAGOON_ENGLAND</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_DRAGOON_AUSTRALIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_DRAGOON_AUSTRALIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_DRAGOON_AUSTRALIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -102,41 +102,41 @@
 				<StyleUnit>
 					<UnitType>UNIT_MUSKETEER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ENGLISH_REDCOAT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ENGLISH_REDCOAT</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETEER_ENGLAND_LATE</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETEER_AUSTRALIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETEER_AUSTRALIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETEER_AUSTRALIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_COLONIAL_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_COLONIAL_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_COLONIAL_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_AUSTRALIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_AUSTRALIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_AUSTRALIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_GRENADIER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_GRENADIER_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_GRENADIER_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_GRENADIER_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GRENADIER_AUSTRALIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GRENADIER_AUSTRALIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GRENADIER_AUSTRALIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_INFANTRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_AUSTRALIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_AUSTRALIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_AUSTRALIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_AT_INFANTRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ENGLAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ENGLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ENGLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -190,9 +190,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_ARTILLERY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ARTILLERY_ENGLAND</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ARTILLERY_ENGLAND</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ARTILLERY_ENGLAND</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARTILLERY_AUSTRALIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARTILLERY_AUSTRALIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARTILLERY_AUSTRALIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -374,9 +374,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_CANNON</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_AUSTRALIA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_AUSTRALIA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CANNON_AUSTRALIA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_ENGLAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_ENGLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CANNON_ENGLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -385,6 +385,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_WORK_BOAT_EUROPEAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORK_BOAT_EUROPEAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WORK_BOAT_EUROPEAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_MACHINE_GUN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_AUSTRALIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_AUSTRALIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_AUSTRALIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>

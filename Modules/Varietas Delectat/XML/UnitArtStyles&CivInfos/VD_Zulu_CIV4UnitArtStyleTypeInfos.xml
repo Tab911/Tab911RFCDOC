@@ -122,19 +122,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_PIKEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULULAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULULAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULULAND</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU_2</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU_2</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU_2</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULULAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULULAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULULAND</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU_3</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU_3</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU_3</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULULAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULULAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULULAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -200,37 +200,37 @@
 				<StyleUnit>
 					<UnitType>UNIT_AXEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULULAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULULAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULULAND</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULULAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULULAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULULAND</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULULAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULULAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_ZULULAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULULAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULULAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULULAND</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULULAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULULAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULULAND</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULULAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULULAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ZULULAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -307,9 +307,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_HUSSAR</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HUSSAR_AFRICAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HUSSAR_AFRICAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HUSSAR_AFRICAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HUSSAR_CONGO</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HUSSAR_CONGO</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HUSSAR_CONGO</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -323,9 +323,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_CAVALRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CAVALRY_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_ZULULAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CAVALRY_ZULULAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_ZULULAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -339,9 +339,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_ARTILLERY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ARTILLERY_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ARTILLERY_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ARTILLERY_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARTILLERY_BANTU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARTILLERY_BANTU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARTILLERY_BANTU</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -379,41 +379,41 @@
 				<StyleUnit>
 					<UnitType>UNIT_INFANTRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_KINGS_RIFLES_AFRICAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_KINGS_RIFLES_AFRICAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_KINGS_RIFLES_AFRICAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_ZULU</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_MACHINE_GUN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_ZULULAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_ZULULAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_ZULULAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SAM_INFANTRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_SWAHILI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_SWAHILI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_SWAHILI</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_MARINE</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MARINE_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MARINE_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MARINE_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MARINE_SWAHILI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MARINE_SWAHILI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MARINE_SWAHILI</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_AT_INFANTRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ETHIOPIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ETHIOPIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_ETHIOPIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -499,8 +499,8 @@
 				<StyleUnit>
 					<UnitType>UNIT_GREAT_ARTIST</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_ARTIST_AFRICAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_ARTIST_AFRICAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_ARTIST_ZULULAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_ARTIST_ZULULAND</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_GREAT_ARTIST_MODERN_AFRICA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
@@ -678,6 +678,24 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_SKIRMISHER_ZULU</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SKIRMISHER_ZULU</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SKIRMISHER_ZULU</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_HEAVY_SPEARMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_CONGO</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_CONGO</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_CONGO</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_CONGO</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_CONGO</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_CONGO</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_CONGO</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_CONGO</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_CONGO</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>
