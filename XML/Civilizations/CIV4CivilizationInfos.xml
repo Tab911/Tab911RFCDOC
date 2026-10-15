@@ -591,7 +591,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_BABYLONIA</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_BABYLON</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_NATIVE_AMERICA</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_BABYLON</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_ANUNNAKI</PaganReligion>
 			<Impact>IMPACT_CRITICAL</Impact>
 			<Identifier>BAB</Identifier>
@@ -1687,7 +1687,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_EGYPT</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_EGYPT</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_EGYPT</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_ZULU</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_EGYPT</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_PESEDJET</PaganReligion>
 			<Impact>IMPACT_CRITICAL</Impact>
 			<Identifier>EGY</Identifier>
