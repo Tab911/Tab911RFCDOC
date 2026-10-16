@@ -11032,43 +11032,43 @@
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
 		<SoundData>
-			<SoundID>SND_BUILD_ORTHODOX</SoundID>
-			<Filename>Sounds/Units/OrthodoxDink</Filename>
+			<SoundID>SND_BUILD_ORTHODOXY</SoundID>
+			<Filename>Sounds/Units/OrthodoxyDink</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
 		<SoundData>
-			<SoundID>SND_BUILD_ORTHODOX_MOVIE</SoundID>
-			<Filename>Sounds/Units/Orthodox</Filename>
+			<SoundID>SND_BUILD_ORTHODOXY_MOVIE</SoundID>
+			<Filename>Sounds/Units/Orthodoxy</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
 		<SoundData>
-			<SoundID>SND_BUILD_ORTHODOX_MISSIONARY</SoundID>
-			<Filename>Sounds/Units/Orthodox2</Filename>
+			<SoundID>SND_BUILD_ORTHODOXY_MISSIONARY</SoundID>
+			<Filename>Sounds/Units/Orthodoxy2</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
 		<SoundData>
-			<SoundID>SND_BUILD_PROTESTANT</SoundID>
-			<Filename>Sounds/Units/ProtestantDink</Filename>
+			<SoundID>SND_BUILD_PROTESTANTISM</SoundID>
+			<Filename>Sounds/Units/ProtestantismDink</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
 		<SoundData>
-			<SoundID>SND_BUILD_PROTESTANT_MOVIE</SoundID>
-			<Filename>Sounds/Units/Protestant</Filename>
+			<SoundID>SND_BUILD_PROTESTANTISM_MOVIE</SoundID>
+			<Filename>Sounds/Units/Protestantism</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
 		<SoundData>
-			<SoundID>SND_BUILD_PROTESTANT_MISSIONARY</SoundID>
-			<Filename>Sounds/Units/Protestant2</Filename>
+			<SoundID>SND_BUILD_PROTESTANTISM_MISSIONARY</SoundID>
+			<Filename>Sounds/Units/Protestantism2</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>

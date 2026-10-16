@@ -1035,7 +1035,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_BYZANTIUM</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_BYZANTIUM</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_BYZANTIUM</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_GREECE</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_OLYMPIANISM</PaganReligion>
 			<Impact>IMPACT_SIGNIFICANT</Impact>
 			<Identifier>BYZ</Identifier>

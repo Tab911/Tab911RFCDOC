@@ -6301,9 +6301,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ModernWorker/ModernWorker.nif</NIF>
+			<NIF>Art/Units/Madeireiro/hardhatmodernworker.nif</NIF>
 			<KFM>Art/Units/ModernWorker/ModernWorker.kfm</KFM>
-			<SHADERNIF>Art/Units/ModernWorker/ModernWorker_FX.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Madeireiro/hardhatmodernworker.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>

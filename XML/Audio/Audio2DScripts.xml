@@ -21630,8 +21630,8 @@
 		<ScriptID>AS2D_BUILD_ZORO</ScriptID>
 		<SoundID>SND_BUILD_ZORO</SoundID>
 		<SoundType>GAME_SFX</SoundType>
-		<iMinVolume>100</iMinVolume>
-		<iMaxVolume>100</iMaxVolume>
+		<iMinVolume>50</iMinVolume>
+		<iMaxVolume>50</iMaxVolume>
 		<iPitchChangeDown>0</iPitchChangeDown>
 		<iPitchChangeUp>0</iPitchChangeUp>
 		<iMinLeftPan>-1</iMinLeftPan>
@@ -21653,8 +21653,8 @@
 		<ScriptID>AS2D_BUILD_ZORO_MOVIE</ScriptID>
 		<SoundID>SND_BUILD_ZORO_MOVIE</SoundID>
 		<SoundType>GAME_SFX</SoundType>
-		<iMinVolume>100</iMinVolume>
-		<iMaxVolume>100</iMaxVolume>
+		<iMinVolume>50</iMinVolume>
+		<iMaxVolume>50</iMaxVolume>
 		<iPitchChangeDown>0</iPitchChangeDown>
 		<iPitchChangeUp>0</iPitchChangeUp>
 		<iMinLeftPan>-1</iMinLeftPan>
@@ -21676,8 +21676,8 @@
 		<ScriptID>AS2D_UNIT_BUILD_ZORO_MISSIONARY</ScriptID>
 		<SoundID>SND_BUILD_ZORO_MISSIONARY</SoundID>
 		<SoundType>GAME_SFX</SoundType>
-		<iMinVolume>100</iMinVolume>
-		<iMaxVolume>100</iMaxVolume>
+		<iMinVolume>50</iMinVolume>
+		<iMaxVolume>50</iMaxVolume>
 		<iPitchChangeDown>0</iPitchChangeDown>
 		<iPitchChangeUp>0</iPitchChangeUp>
 		<iMinLeftPan>-1</iMinLeftPan>
@@ -21699,8 +21699,8 @@
 		<ScriptID>AS2D_BUILD_JAIN</ScriptID>
 		<SoundID>SND_BUILD_JAIN</SoundID>
 		<SoundType>GAME_SFX</SoundType>
-		<iMinVolume>100</iMinVolume>
-		<iMaxVolume>100</iMaxVolume>
+		<iMinVolume>50</iMinVolume>
+		<iMaxVolume>50</iMaxVolume>
 		<iPitchChangeDown>0</iPitchChangeDown>
 		<iPitchChangeUp>0</iPitchChangeUp>
 		<iMinLeftPan>-1</iMinLeftPan>
@@ -21722,8 +21722,8 @@
 		<ScriptID>AS2D_BUILD_JAIN_MOVIE</ScriptID>
 		<SoundID>SND_BUILD_JAIN_MOVIE</SoundID>
 		<SoundType>GAME_SFX</SoundType>
-		<iMinVolume>100</iMinVolume>
-		<iMaxVolume>100</iMaxVolume>
+		<iMinVolume>50</iMinVolume>
+		<iMaxVolume>50</iMaxVolume>
 		<iPitchChangeDown>0</iPitchChangeDown>
 		<iPitchChangeUp>0</iPitchChangeUp>
 		<iMinLeftPan>-1</iMinLeftPan>
@@ -21745,8 +21745,8 @@
 		<ScriptID>AS2D_UNIT_BUILD_JAIN_MISSIONARY</ScriptID>
 		<SoundID>SND_BUILD_JAIN_MISSIONARY</SoundID>
 		<SoundType>GAME_SFX</SoundType>
-		<iMinVolume>100</iMinVolume>
-		<iMaxVolume>100</iMaxVolume>
+		<iMinVolume>50</iMinVolume>
+		<iMaxVolume>50</iMaxVolume>
 		<iPitchChangeDown>0</iPitchChangeDown>
 		<iPitchChangeUp>0</iPitchChangeUp>
 		<iMinLeftPan>-1</iMinLeftPan>
@@ -21765,11 +21765,11 @@
 		<iNotPlayPercent>0</iNotPlayPercent>
 	</Script2DSound>
 	<Script2DSound>
-		<ScriptID>AS2D_BUILD_ORTHODOX</ScriptID>
-		<SoundID>SND_BUILD_ORTHODOX</SoundID>
+		<ScriptID>AS2D_BUILD_ORTHODOXY</ScriptID>
+		<SoundID>SND_BUILD_ORTHODOXY</SoundID>
 		<SoundType>GAME_SFX</SoundType>
-		<iMinVolume>100</iMinVolume>
-		<iMaxVolume>100</iMaxVolume>
+		<iMinVolume>50</iMinVolume>
+		<iMaxVolume>50</iMaxVolume>
 		<iPitchChangeDown>0</iPitchChangeDown>
 		<iPitchChangeUp>0</iPitchChangeUp>
 		<iMinLeftPan>-1</iMinLeftPan>
@@ -21788,11 +21788,11 @@
 		<iNotPlayPercent>0</iNotPlayPercent>
 	</Script2DSound>
 	<Script2DSound>
-		<ScriptID>AS2D_BUILD_ORTHODOX_MOVIE</ScriptID>
-		<SoundID>SND_BUILD_ORTHODOX_MOVIE</SoundID>
+		<ScriptID>AS2D_BUILD_ORTHODOXY_MOVIE</ScriptID>
+		<SoundID>SND_BUILD_ORTHODOXY_MOVIE</SoundID>
 		<SoundType>GAME_SFX</SoundType>
-		<iMinVolume>100</iMinVolume>
-		<iMaxVolume>100</iMaxVolume>
+		<iMinVolume>50</iMinVolume>
+		<iMaxVolume>50</iMaxVolume>
 		<iPitchChangeDown>0</iPitchChangeDown>
 		<iPitchChangeUp>0</iPitchChangeUp>
 		<iMinLeftPan>-1</iMinLeftPan>
@@ -21811,11 +21811,11 @@
 		<iNotPlayPercent>0</iNotPlayPercent>
 	</Script2DSound>
 	<Script2DSound>
-		<ScriptID>AS2D_UNIT_BUILD_ORTHODOX_MISSIONARY</ScriptID>
-		<SoundID>SND_BUILD_ORTHODOX_MISSIONARY</SoundID>
+		<ScriptID>AS2D_UNIT_BUILD_ORTHODOXY_MISSIONARY</ScriptID>
+		<SoundID>SND_BUILD_ORTHODOXY_MISSIONARY</SoundID>
 		<SoundType>GAME_SFX</SoundType>
-		<iMinVolume>100</iMinVolume>
-		<iMaxVolume>100</iMaxVolume>
+		<iMinVolume>50</iMinVolume>
+		<iMaxVolume>50</iMaxVolume>
 		<iPitchChangeDown>0</iPitchChangeDown>
 		<iPitchChangeUp>0</iPitchChangeUp>
 		<iMinLeftPan>-1</iMinLeftPan>
@@ -21834,11 +21834,11 @@
 		<iNotPlayPercent>0</iNotPlayPercent>
 	</Script2DSound>
 	<Script2DSound>
-		<ScriptID>AS2D_BUILD_PROTESTANT</ScriptID>
-		<SoundID>SND_BUILD_PROTESTANT</SoundID>
+		<ScriptID>AS2D_BUILD_PROTESTANTISM</ScriptID>
+		<SoundID>SND_BUILD_PROTESTANTISM</SoundID>
 		<SoundType>GAME_SFX</SoundType>
-		<iMinVolume>100</iMinVolume>
-		<iMaxVolume>100</iMaxVolume>
+		<iMinVolume>50</iMinVolume>
+		<iMaxVolume>50</iMaxVolume>
 		<iPitchChangeDown>0</iPitchChangeDown>
 		<iPitchChangeUp>0</iPitchChangeUp>
 		<iMinLeftPan>-1</iMinLeftPan>
@@ -21857,11 +21857,11 @@
 		<iNotPlayPercent>0</iNotPlayPercent>
 	</Script2DSound>
 	<Script2DSound>
-		<ScriptID>AS2D_BUILD_PROTESTANT_MOVIE</ScriptID>
-		<SoundID>SND_BUILD_PROTESTANT_MOVIE</SoundID>
+		<ScriptID>AS2D_BUILD_PROTESTANTISM_MOVIE</ScriptID>
+		<SoundID>SND_BUILD_PROTESTANTISM_MOVIE</SoundID>
 		<SoundType>GAME_SFX</SoundType>
-		<iMinVolume>100</iMinVolume>
-		<iMaxVolume>100</iMaxVolume>
+		<iMinVolume>50</iMinVolume>
+		<iMaxVolume>50</iMaxVolume>
 		<iPitchChangeDown>0</iPitchChangeDown>
 		<iPitchChangeUp>0</iPitchChangeUp>
 		<iMinLeftPan>-1</iMinLeftPan>
@@ -21880,11 +21880,11 @@
 		<iNotPlayPercent>0</iNotPlayPercent>
 	</Script2DSound>
 	<Script2DSound>
-		<ScriptID>AS2D_UNIT_BUILD_PROTESTANT_MISSIONARY</ScriptID>
-		<SoundID>SND_BUILD_PROTESTANT_MISSIONARY</SoundID>
+		<ScriptID>AS2D_UNIT_BUILD_PROTESTANTISM_MISSIONARY</ScriptID>
+		<SoundID>SND_BUILD_PROTESTANTISM_MISSIONARY</SoundID>
 		<SoundType>GAME_SFX</SoundType>
-		<iMinVolume>100</iMinVolume>
-		<iMaxVolume>100</iMaxVolume>
+		<iMinVolume>50</iMinVolume>
+		<iMaxVolume>50</iMaxVolume>
 		<iPitchChangeDown>0</iPitchChangeDown>
 		<iPitchChangeUp>0</iPitchChangeUp>
 		<iMinLeftPan>-1</iMinLeftPan>

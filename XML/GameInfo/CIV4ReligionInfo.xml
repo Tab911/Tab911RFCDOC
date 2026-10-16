@@ -67,8 +67,8 @@
 			<TechButton>Art/Interface/Buttons/TechTree/Theology.dds</TechButton>
 			<GenericTechButton>,Art/Interface/Buttons/TechTree/Christianity.dds,Art/Interface/Buttons/Beyond the Sword_Atlas.dds,1,3</GenericTechButton>
 			<MovieFile>Art/Movies/Religion/Christianity/Chr_Found.nif</MovieFile>
-			<MovieSound>AS2D_BUILD_ORTHODOX_MOVIE</MovieSound>
-			<Sound>AS2D_BUILD_ORTHODOX</Sound>
+			<MovieSound>AS2D_BUILD_ORTHODOXY_MOVIE</MovieSound>
+			<Sound>AS2D_BUILD_ORTHODOXY</Sound>
 		</ReligionInfo>
 		<ReligionInfo>
 			<Type>RELIGION_CATHOLICISM</Type>
@@ -131,8 +131,8 @@
 			<TechButton>Art/Interface/Buttons/TechTree/Theology.dds</TechButton>
 			<GenericTechButton>,Art/Interface/Buttons/TechTree/Christianity.dds,Art/Interface/Buttons/Beyond the Sword_Atlas.dds,1,3</GenericTechButton>
 			<MovieFile>Art/Movies/Religion/Christianity/Chr_Found.nif</MovieFile>
-			<MovieSound>AS2D_BUILD_PROTESTANT_MOVIE</MovieSound>
-			<Sound>AS2D_BUILD_PROTESTANT</Sound>
+			<MovieSound>AS2D_BUILD_PROTESTANTISM_MOVIE</MovieSound>
+			<Sound>AS2D_BUILD_PROTESTANTISM</Sound>
 		</ReligionInfo>
 		<ReligionInfo>
 			<Type>RELIGION_ISLAM</Type>
